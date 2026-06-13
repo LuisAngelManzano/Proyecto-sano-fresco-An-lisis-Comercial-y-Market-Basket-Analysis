@@ -1,10 +1,10 @@
-# 🛒 Sano y Fresco: Análisis Comercial y Market Basket Analysis
+# Sano y Fresco: Análisis Comercial y Market Basket Analysis
 
 Bienvenido al repositorio del proyecto "Sano y Fresco". Este proyecto es un análisis de inteligencia de negocios *end-to-end* orientado al sector retail, donde transformamos datos transaccionales de ventas en insights accionables para la optimización de inventarios y estrategias de *cross-selling* (venta cruzada).
 
 ---
 
-## 🎯 Contexto y Preguntas de Negocio
+##  Preguntas de Negocio
 El objetivo principal del proyecto fue analizar casi 5 millones de registros transaccionales para responder a preguntas clave del negocio y proponer soluciones basadas en datos:
 *   ¿Cuál es la salud financiera general de la sucursal (Ingresos mensuales, Ticket Medio por cliente)?
 *   ¿Cuáles son los productos "estrella" con mayor rotación?
@@ -16,8 +16,10 @@ El objetivo principal del proyecto fue analizar casi 5 millones de registros tra
 
 ## (Power BI)
 Desarrollo de paneles interactivos para el monitoreo de KPIs y Market Basket Analysis.
-🌐 **[Interactuar con el Dashboard en línea (Power BI Service)](https://app.powerbi.com/view?r=eyJrIjoiMmRjMzFiMmYtODIyNS00YjhlLTgwN2UtMjk5Y2I0ODQ2MzcwIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9)**  
-📥 **[Descargar archivo del modelo para escritorio (.pbix)](sanoyfresco.pbix)**
+
+ **[Interactuar con el Dashboard en línea (Power BI Service)](https://app.powerbi.com/view?r=eyJrIjoiMmRjMzFiMmYtODIyNS00YjhlLTgwN2UtMjk5Y2I0ODQ2MzcwIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9)**  
+
+ **[Descargar archivo del modelo para escritorio (.pbix)](sanoyfresco.pbix)**
 
 ### Panel Principal: Ventas y Rentabilidad
 Este panel permite a los gerentes monitorizar el volumen de transacciones, los ingresos y los productos más vendidos mediante gráficos de árbol (*Treemap*).
@@ -31,7 +33,7 @@ Panel diseñado para visualizar las reglas de asociación descubiertas (más de 
 
 ---
 
-## 🛠️ El Proceso de Datos (Python y SQLite)
+##  El Proceso de Datos (Python y SQLite)
 Todo el proceso de ingeniería de datos, desde la limpieza hasta el modelado matemático, se encuentra documentado paso a paso en el archivo **`TPE_MarketBasketAnalysis_colab.ipynb`**.
 [Haz clic aquí para ver el código completo del análisis en Python (Jupyter Notebook)](TPE_MarketBasketAnalysis_colab/TPE_MarketBasketAnalysis_colab.ipynb)
 
