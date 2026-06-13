@@ -31,7 +31,8 @@ Panel diseñado para visualizar las reglas de asociación descubiertas (más de 
 ---
 
 ## 🛠️ El Proceso de Datos (Python y SQLite)
-Todo el proceso de ingeniería de datos, desde la limpieza hasta el modelado matemático, se encuentra documentado paso a paso en el archivo **`consulta.ipynb`**.
+Todo el proceso de ingeniería de datos, desde la limpieza hasta el modelado matemático, se encuentra documentado paso a paso en el archivo **`TPE_MarketBasketAnalysis_colab.ipynb`**.
+[Haz clic aquí para ver el código completo del análisis en Python (Jupyter Notebook)](TPE_MarketBasketAnalysis_colab/TPE_MarketBasketAnalysis_colab.ipynb)
 
 *   **Extracción (ETL):** Conexión directa a la base de datos relacional mediante `sqlite3` y extracción a DataFrames usando `pandas`.
 *   **Transformación y One-Hot Encoding:** Preparación de los datos transaccionales creando matrices binarias de compra por cliente.
