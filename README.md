@@ -21,7 +21,7 @@ Desarrollo de paneles interactivos para el monitoreo de KPIs.
 ### Panel Principal: Ventas y Rentabilidad
 Este panel permite a los gerentes monitorizar el volumen de transacciones, los ingresos y los productos más vendidos mediante gráficos de árbol (*Treemap*).
 
-![Dashboard](Media/Ventas.png)
+![Dashboard](Media/ventas.png)
 
 ### Panel Analítico: Market Basket Analysis
 Panel diseñado para visualizar las reglas de asociación descubiertas (más de 300 patrones de compra), filtradas por su nivel de *Confianza* y *Lift*.
