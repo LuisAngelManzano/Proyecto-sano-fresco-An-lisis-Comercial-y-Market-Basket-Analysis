@@ -39,6 +39,13 @@ Todo el proceso de ingeniería de datos, desde la limpieza hasta el modelado mat
 *   **Modelo Analítico:** Desarrollo de funciones personalizadas en Python para calcular métricas estadísticas (*Soporte, Confianza, Lift*) utilizando `itertools.combinations`, logrando identificar relaciones de compra sólidas para el negocio.
 
 ---
+## 📊 El Cuadro de Mando (Power BI)
+Desarrollo de paneles interactivos para el monitoreo de KPIs y Market Basket Analysis.
+
+🌐 **[Interactuar con el Dashboard en línea (Power BI Service)](https://app.powerbi.com/view?r=eyJrIjoiMmRjMzFiMmYtODIyNS00YjhlLTgwN2UtMjk5Y2I0ODQ2MzcwIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9)**  
+📥 **[Descargar archivo del modelo para escritorio (.pbix)](sanoyfresco.pbix)**
+
+*(Aquí van las fotos de tu dashboard)*
 
 ## 🏆 Créditos y Agradecimientos
 Este proyecto fue desarrollado como parte de mi formación continua en inteligencia de negocios y ciencia de datos. Un agradecimiento especial a **Data Science For Business** por la excelente estructura formativa y la guía proporcionada a lo largo del curso para llevar este proyecto a la realidad.
